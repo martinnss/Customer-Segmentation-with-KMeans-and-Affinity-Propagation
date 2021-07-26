@@ -20,17 +20,16 @@ The purpose of this project is to extract the number of costumer types, i.e., co
 * Jupyter Notebook
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This dataset comes from a supermarket mall and has membership cards, this data have some basic data about your customers like Customer ID, age, gender, annual income and spending score.
+*Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.*
+
+There are many models for clustering out there. We will be going through most popular ones. Despite its simplicity, the K-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data. In this notebook, we see how to use k-Means for customer segmentation.
 
 ## Needs of this project
 
 - Data exploration/descriptive statistics
 - Data processing/cleaning
 - Machine learning modeling
-
-
-
-
 
 ## Contact me
 * Gmail: martin.olivarest@utem.cl  
