@@ -1,11 +1,11 @@
 
-# Costumer Segmentation 
+# Customer Segmentation 
 This project is a part of the [Martinnss Data Science Portfolio](https://github.com/martinnss?tab=repositories).  Feel free to contact me if you have any questions or if you are interested in contributing! [This is my LinkedIn account](https://cl.linkedin.com/in/mart%C3%ADn-olivares-tapia-5577a820a).
 
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to extract the number of costumer types, i.e., costumer segmentation by using the KMeans algorithm (unsupervised ML) to cluster the data. 
+The purpose of this project is to extract the number of customer types, i.e., customer segmentation by using the KMeans algorithm (unsupervised ML) to cluster the data. 
 
 
 ### Methods Used
