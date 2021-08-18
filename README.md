@@ -5,7 +5,7 @@ This project is a part of the [Martinnss Data Science Portfolio](https://github.
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to extract the number of customer types, i.e., customer segmentation by using the KMeans algorithm (unsupervised ML) to cluster the data. 
+The purpose of this project is to extract the number of customer types, i.e., customer segmentation by using the KMeans and Affinity Propagation algorithms(unsupervised ML) to cluster the data. 
 
 
 ### Methods Used
